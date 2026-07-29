@@ -1,4 +1,4 @@
-# 🔴 Penetration Testing & IT Security Professional
+# 🔴 IT Security Professional & Vulnerability Researcher
 
 <!-- Header Banner -->
 <div align="center">
@@ -19,42 +19,44 @@
 ### 💻 System Terminal
 
 <pre>
-<font color="#ff3333"><b>[root@pentest-ops ~]#</b></font> whoami
+<font color="#ff3333"><b>[root@pains ~]#</b></font> whoami
 <font color="#ffffff">&gt; IT Specialist | Penetration Tester | Vulnerability Researcher</font>
 
-<font color="#ff3333"><b>[root@pentest-ops ~]#</b></font> cat profile.json
+<font color="#ff3333"><b>[root@pains ~]#</b></font> cat profile.json
 <font color="#00ffcc">{
   "name": "Pedro Henrique Pains",
-  "focus": ["Web Pentesting", "Network Pentesting", "API Testing"],
-  "hall_of_fame": ["NASA", "U.S. Department of Defense (DoD)", "State of California"],
+  "focus": ["Web Pentesting", "Network Pentesting", "API Testing", "Security Policies"],
+  "Recognitions": ["NASA", "U.S. Department of Defense (DoD)", "State of California"],
   "status": "Ready for high-impact Pentesting & IT Security opportunities"
 }</font>
 
 <font color="#ff3333"><b>[root@pentest-ops ~]#</b></font> systemctl status core-passion
-<font color="#33cc33">● core-passion.service - Penetration Testing Lab Practice & Security Auditing
+<font color="#33cc33">● core-passion.service - Hands-On Penetration Testing & Security Auditing
    Active: active (running) since always</font>
 </pre>
 
 ---
 
-### 🏆 Key Achievements & Hall of Fame
+### 🏆 Key Achievements
 
 > [!IMPORTANT]
 > Acknowledged for reporting critical vulnerabilities and securing public, state, and federal infrastructure through Vulnerability Disclosure Programs (VDPs):
 
-* 🚀 **NASA (National Aeronautics and Space Administration)**: Received a formal **Letter of Recognition** for contributing to the security of NASA's digital assets.
-* 🛡️ **U.S. Department of Defense (DoD)**: Acknowledged for finding and reporting vulnerabilities, helping secure federal/military digital infrastructure.
-* 🐻 **State of California**: Disclosed security vulnerabilities to assist in protecting state-level public sector assets.
+* 🚀 **NASA (National Aeronautics and Space Administration)**: Received a formal **Letter of Recognition** for contributing to the security of NASA's digital assets on June 15, 2026, by disclosing a medium-severity flaw that exposed internal and personal information.
+* 🛡️ **U.S. Department of Defense (DoD)**: Recognized for discovering and reporting a vulnerability that exposed thousands of military bases, coordinates, internal functions, departments, job roles, and positions, thereby aiding in the security of federal and military digital infrastructure.
+* 🐻 **State of California**: Reported a security vulnerability that granted me critical administrative access, allowing me to modify the personal information of any site user—regardless of their role. This included changing passwords, disabling MFA, altering personal data, and accessing personal information across the entire subdomain—affecting users, clients, developers, support analysts, and even administrators themselves. In short, I helped protect the State of California's public sector assets.
 
 ---
 
 ### 🛡️ Areas of Expertise
 
 - **Web Application Penetration Testing**
+  * Hands-on security assessment of web applications focusing on vulnerability discovery, exploitation, validation, and security impact analysis.
   * OWASP Top 10 auditing (SQL Injection, Cross-Site Scripting, RCE, IDOR, SSRF, Broken Auth).
   * Business logic bypasses, session management flaws, and server-side vulnerabilities.
 
 - **API & Web Services Security**
+  * Security assessment of REST APIs and GraphQL endpoints, analyzing authentication mechanisms, authorization controls, exposed resources, and improper data handling.
   * Vulnerability assessment of REST/GraphQL API endpoints.
   * Token validation flaws (JWT, OAuth), rate-limiting bypass, and request tampering.
 
@@ -113,9 +115,9 @@
 ### 🎓 Certifications
 
 * 🥇 **CompTIA Security+** 
-  > *Validates core knowledge of foundational cybersecurity principles, network security architecture, risk management, threat identification, and hands-on vulnerability troubleshooting.*
+  > *High required. Validates core knowledge of foundational cybersecurity principles, network security architecture, risk management, threat identification, and hands-on vulnerability troubleshooting.*
 * 🥈 **CAPT (Certified Associate Penetration Tester) - Hackviser**
-  > *Demonstrates practical, hands-on capabilities in web application pentesting, network scanning, exploitation methodologies, and securing vulnerabilities in Active Directory environments.*
+  > *Demonstrates practical, hands-on capabilities in web application pentesting, network scanning, exploitation methodologies, and securing vulnerabilities in real scenarios environments.*
 * 🥉 **Google Cybersecurity Professional Certificate**
   > *Validates hands-on technical skills in threat analysis, network traffic monitoring (Wireshark), Python security automation, Linux CLI operations, and incident response frameworks (NIST).*
 
