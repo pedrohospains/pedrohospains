@@ -1,6 +1,3 @@
-Aqui está o conteúdo final do seu `README.md` atualizado para usar o banner personalizado em SVG:
-
-```markdown
 # 🔴 Penetration Testing & IT Security Professional
 
 <!-- Header Banner -->
